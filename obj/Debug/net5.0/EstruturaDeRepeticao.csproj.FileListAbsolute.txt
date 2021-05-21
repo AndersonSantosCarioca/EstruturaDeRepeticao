@@ -1,0 +1,16 @@
+/home/anderson/Documentos/Devaria/C#/EstruturaDeRepeticao/bin/Debug/net5.0/EstruturaDeRepeticao
+/home/anderson/Documentos/Devaria/C#/EstruturaDeRepeticao/bin/Debug/net5.0/EstruturaDeRepeticao.deps.json
+/home/anderson/Documentos/Devaria/C#/EstruturaDeRepeticao/bin/Debug/net5.0/EstruturaDeRepeticao.runtimeconfig.json
+/home/anderson/Documentos/Devaria/C#/EstruturaDeRepeticao/bin/Debug/net5.0/EstruturaDeRepeticao.runtimeconfig.dev.json
+/home/anderson/Documentos/Devaria/C#/EstruturaDeRepeticao/bin/Debug/net5.0/EstruturaDeRepeticao.dll
+/home/anderson/Documentos/Devaria/C#/EstruturaDeRepeticao/bin/Debug/net5.0/ref/EstruturaDeRepeticao.dll
+/home/anderson/Documentos/Devaria/C#/EstruturaDeRepeticao/bin/Debug/net5.0/EstruturaDeRepeticao.pdb
+/home/anderson/Documentos/Devaria/C#/EstruturaDeRepeticao/obj/Debug/net5.0/EstruturaDeRepeticao.csprojAssemblyReference.cache
+/home/anderson/Documentos/Devaria/C#/EstruturaDeRepeticao/obj/Debug/net5.0/EstruturaDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+/home/anderson/Documentos/Devaria/C#/EstruturaDeRepeticao/obj/Debug/net5.0/EstruturaDeRepeticao.AssemblyInfoInputs.cache
+/home/anderson/Documentos/Devaria/C#/EstruturaDeRepeticao/obj/Debug/net5.0/EstruturaDeRepeticao.AssemblyInfo.cs
+/home/anderson/Documentos/Devaria/C#/EstruturaDeRepeticao/obj/Debug/net5.0/EstruturaDeRepeticao.csproj.CoreCompileInputs.cache
+/home/anderson/Documentos/Devaria/C#/EstruturaDeRepeticao/obj/Debug/net5.0/EstruturaDeRepeticao.dll
+/home/anderson/Documentos/Devaria/C#/EstruturaDeRepeticao/obj/Debug/net5.0/ref/EstruturaDeRepeticao.dll
+/home/anderson/Documentos/Devaria/C#/EstruturaDeRepeticao/obj/Debug/net5.0/EstruturaDeRepeticao.pdb
+/home/anderson/Documentos/Devaria/C#/EstruturaDeRepeticao/obj/Debug/net5.0/EstruturaDeRepeticao.genruntimeconfig.cache
